@@ -1,0 +1,8 @@
+# Python & Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS background files
+.DS_Store
+Thumbs.db
