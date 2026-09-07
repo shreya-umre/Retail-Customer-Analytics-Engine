@@ -49,6 +49,14 @@ The Power BI model utilizes an optimized Star Schema centered around transaction
 
 ---
 
+## 🗃️ Dataset Attribution
+* **Dataset Name:** Online Retail Dataset
+* **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+* **License / Access:** Publicly available for research and educational purposes.
+* **Dataset Description:** Contains 541,909 raw transactional records occurring between 01/12/2010 and 09/12/2011 for a UK-based non-store online retail business selling unique all-occasion gifts.
+
+---
+
 ## 📁 Repository Structure
 ```text
 ├── data/               # Raw and processed CSV/XLSX data artifacts
